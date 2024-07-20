@@ -1,0 +1,71 @@
+<root name="" element-id="11" assign-type="None" type="Unity.Android.Gradle.ModuleBuildGradleFile" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="">
+  <element name="" element-id="12" assign-type="None" type="Unity.Android.Gradle.ApplyPluginList" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+    <element name="" element-id="96" assign-type="None" raw-value="apply plugin: 'com.android.application'" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+    <element name="" element-id="97" assign-type="None" raw-value="apply from: 'setupSymbols.gradle'" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+    <element name="" element-id="98" assign-type="None" raw-value="apply from: '../shared/keepUnitySymbols.gradle'" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+  </element>
+  <element name="dependencies" element-id="13" assign-type="None" type="Unity.Android.Gradle.Dependencies" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="12">
+    <element name="" element-id="99" assign-type="None" raw-value="implementation project(':unityLibrary')" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+  </element>
+  <element name="android" element-id="15" assign-type="None" type="Unity.Android.Gradle.Android" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="12">
+    <element name="namespace" element-id="16" assign-type="None" property-value="com.biligame.sphericalera" type="Unity.Android.Gradle.PropertyString" base-type="BaseProperty" is-default="true" dependencies="" />
+    <element name="ndkPath" element-id="18" assign-type="None" property-value="H:/UnityEngine/6000.0.8f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK" type="Unity.Android.Gradle.PropertyString" base-type="BaseProperty" is-default="true" dependencies="" />
+    <element name="ndkVersion" element-id="19" assign-type="None" property-value="23.1.7779620" type="Unity.Android.Gradle.PropertyString" base-type="BaseProperty" is-default="true" dependencies="" />
+    <element name="compileSdk" element-id="20" assign-type="None" property-value="34" type="Unity.Android.Gradle.PropertyUnsignedInteger" base-type="BaseProperty" is-default="true" dependencies="" />
+    <element name="buildToolsVersion" element-id="21" assign-type="Equals" property-value="34.0.0" type="Unity.Android.Gradle.PropertyString" base-type="BaseProperty" is-default="true" dependencies="" />
+    <element name="compileOptions" element-id="23" assign-type="None" type="Unity.Android.Gradle.CompileOptions" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="sourceCompatibility" element-id="24" assign-type="None" property-value="Version_17" type="Unity.Android.Gradle.PropertyEnum`1" base-type="BaseProperty" is-default="true" dependencies="" />
+      <element name="targetCompatibility" element-id="25" assign-type="None" property-value="Version_17" type="Unity.Android.Gradle.PropertyEnum`1" base-type="BaseProperty" is-default="true" dependencies="" />
+    </element>
+    <element name="defaultConfig" element-id="26" assign-type="None" type="Unity.Android.Gradle.Flavor" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="applicationId" element-id="27" assign-type="None" property-value="com.biligame.sphericalera" type="Unity.Android.Gradle.PropertyString" base-type="BaseProperty" is-default="true" dependencies="" />
+      <element name="versionName" element-id="32" assign-type="None" property-value="3.0beta0.01" type="Unity.Android.Gradle.PropertyString" base-type="BaseProperty" is-default="true" dependencies="" />
+      <element name="minSdk" element-id="34" assign-type="None" property-value="23" type="Unity.Android.Gradle.PropertyUnsignedInteger" base-type="BaseProperty" is-default="true" dependencies="" />
+      <element name="targetSdk" element-id="35" assign-type="None" property-value="34" type="Unity.Android.Gradle.PropertyUnsignedInteger" base-type="BaseProperty" is-default="true" dependencies="" />
+      <element name="versionCode" element-id="36" assign-type="None" property-value="1" type="Unity.Android.Gradle.PropertyUnsignedInteger" base-type="BaseProperty" is-default="true" dependencies="" />
+      <element name="ndk" element-id="39" assign-type="None" type="Unity.Android.Gradle.Ndk" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+        <element name="abiFilters" element-id="40" assign-type="None" property-value="armeabi-v7a" type="Unity.Android.Gradle.PropertyStringArray" base-type="BaseProperty" is-default="true" dependencies="" />
+        <element name="debugSymbolLevel" element-id="41" assign-type="Quotes" property-value="None" type="Unity.Android.Gradle.PropertyEnum`1" base-type="BaseProperty" is-default="true" dependencies="" />
+      </element>
+    </element>
+    <element name="lint" element-id="42" assign-type="None" type="Unity.Android.Gradle.Lint" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="abortOnError" element-id="44" assign-type="None" property-value="False" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+    </element>
+    <element name="androidResources" element-id="72" assign-type="None" type="Unity.Android.Gradle.AndroidResources" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="ignoreAssetsPattern" element-id="75" assign-type="Equals" property-value="!.svn:!.git:!.ds_store:!*.scc:!CVS:!thumbs.db:!picasa.ini:!*~" type="Unity.Android.Gradle.PropertyString" base-type="BaseProperty" is-default="true" dependencies="" />
+      <element name="noCompress" element-id="77" assign-type="Equals" raw-value="['.unity3d', '.ress', '.resource', '.obb', '.bundle', '.unityexp'] + unityStreamingAssets.tokenize(', ')" type="Unity.Android.Gradle.PropertyStringArray" base-type="BaseProperty" is-default="true" dependencies="" />
+    </element>
+    <element name="packaging" element-id="80" assign-type="None" type="Unity.Android.Gradle.Packaging" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="jniLibs" element-id="81" assign-type="None" type="Unity.Android.Gradle.JniLibs" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+        <element name="useLegacyPackaging" element-id="82" assign-type="None" property-value="True" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+      </element>
+    </element>
+    <element name="buildTypes" element-id="84" assign-type="None" type="Unity.Android.Gradle.BuildTypes" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="debug" element-id="100" assign-type="None" type="Unity.Android.Gradle.BuildType" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="">
+        <element name="minifyEnabled" element-id="101" assign-type="Equals" property-value="False" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+        <element name="proguardFiles" element-id="102" assign-type="None" raw-value="getDefaultProguardFile('proguard-android.txt')" type="Unity.Android.Gradle.PropertyStringArray" base-type="BaseProperty" is-default="true" dependencies="" />
+        <element name="jniDebuggable" element-id="103" assign-type="Equals" property-value="True" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+        <element name="signingConfig" element-id="105" assign-type="None" property-value="signingConfigs.debug" type="Unity.Android.Gradle.Property`1" base-type="BaseProperty" is-default="true" dependencies="" />
+      </element>
+      <element name="release" element-id="106" assign-type="None" type="Unity.Android.Gradle.BuildType" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="">
+        <element name="minifyEnabled" element-id="107" assign-type="Equals" property-value="False" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+        <element name="proguardFiles" element-id="108" assign-type="None" raw-value="getDefaultProguardFile('proguard-android.txt')" type="Unity.Android.Gradle.PropertyStringArray" base-type="BaseProperty" is-default="true" dependencies="" />
+        <element name="signingConfig" element-id="111" assign-type="None" property-value="signingConfigs.debug" type="Unity.Android.Gradle.Property`1" base-type="BaseProperty" is-default="true" dependencies="" />
+      </element>
+    </element>
+    <element name="bundle" element-id="112" assign-type="None" type="Unity.Android.Gradle.Bundle" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="">
+      <element name="language" element-id="113" assign-type="None" type="Unity.Android.Gradle.BundleElement" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+        <element name="enableSplit" element-id="114" assign-type="Equals" property-value="False" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+      </element>
+      <element name="density" element-id="115" assign-type="None" type="Unity.Android.Gradle.BundleElement" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+        <element name="enableSplit" element-id="116" assign-type="Equals" property-value="False" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+      </element>
+      <element name="abi" element-id="117" assign-type="None" type="Unity.Android.Gradle.BundleElement" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+        <element name="enableSplit" element-id="118" assign-type="Equals" property-value="True" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+      </element>
+      <element name="texture" element-id="119" assign-type="None" type="Unity.Android.Gradle.BundleElement" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+        <element name="enableSplit" element-id="120" assign-type="Equals" property-value="True" type="Unity.Android.Gradle.PropertyBoolean" base-type="BaseProperty" is-default="true" dependencies="" />
+      </element>
+    </element>
+  </element>
+</root>

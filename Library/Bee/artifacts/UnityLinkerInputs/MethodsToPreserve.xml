@@ -1,0 +1,121 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="BindManager">
+			<method name="OnEndEdit"/>
+		</type>
+		<type fullname="ButtonSwitch">
+			<method name="SwitchThis"/>
+		</type>
+		<type fullname="ChatManager">
+			<method name="ReconnectNewRoom"/>
+		</type>
+		<type fullname="CMDPanel">
+			<method name="DeleteThis"/>
+			<method name="DeleteThis"/>
+			<method name="PlayThis"/>
+			<method name="PlayThis"/>
+			<method name="RenameThis"/>
+			<method name="RenameThis"/>
+		</type>
+		<type fullname="ColorDetector">
+			<method name="AddPointButton"/>
+			<method name="ClearAllPoints"/>
+		</type>
+		<type fullname="Danmaku">
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+			<method name="SendDanmaku"/>
+		</type>
+		<type fullname="GoAPItoCookie">
+			<method name="GoToAPI"/>
+			<method name="ShowImage"/>
+		</type>
+		<type fullname="LoginState">
+			<method name="LogOut"/>
+		</type>
+		<type fullname="Manager">
+			<method name="ReturnHome"/>
+		</type>
+		<type fullname="OpenLink">
+			<method name="Open"/>
+		</type>
+		<type fullname="OperationButton">
+			<method name="TriggerThis"/>
+			<method name="TriggerThis"/>
+			<method name="TriggerThis"/>
+			<method name="TriggerThis"/>
+			<method name="TriggerThis"/>
+		</type>
+		<type fullname="Panels">
+			<method name="changeToolPanel"/>
+			<method name="UIPanelSwitch"/>
+			<method name="UIPanelSwitch"/>
+			<method name="UIPanelSwitch"/>
+		</type>
+		<type fullname="Recorder">
+			<method name="RunCMD"/>
+			<method name="SaveCMD"/>
+			<method name="SwitchRecorder"/>
+		</type>
+		<type fullname="RightMenu">
+			<method name="TriggerPos"/>
+			<method name="TriggerPos"/>
+			<method name="TriggerPos"/>
+			<method name="TriggerPos"/>
+			<method name="TriggerPos"/>
+			<method name="TriggerPos"/>
+			<method name="TriggerPos"/>
+			<method name="TriggerPos"/>
+		</type>
+		<type fullname="SingLogin">
+			<method name="LoginBySign"/>
+			<method name="upState"/>
+		</type>
+		<type fullname="TrackManager">
+			<method name="ResetTrack"/>
+			<method name="ResetTrack"/>
+			<method name="ResetTrack"/>
+			<method name="ResetTrack"/>
+			<method name="ResetTrack"/>
+			<method name="ResetTrack"/>
+			<method name="ResetTrack"/>
+			<method name="ResetTrack"/>
+			<method name="SetDelay"/>
+			<method name="SetDelay"/>
+			<method name="SetMainRoom"/>
+			<method name="SetSpeed"/>
+			<method name="SetSpeed"/>
+			<method name="SetTrackEnable"/>
+			<method name="TpMainRoom"/>
+		</type>
+		<type fullname="WinSetting">
+			<method name="OnClickMinimize"/>
+			<method name="OnClose"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>

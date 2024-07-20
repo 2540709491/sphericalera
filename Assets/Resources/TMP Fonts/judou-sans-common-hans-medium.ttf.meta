@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bae056934158cd64fb6e28b40c745391
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Judou Sans Hans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4bde8f8b547cddf47a5297e129dd0569, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

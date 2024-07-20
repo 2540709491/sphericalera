@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 7e91002cbff8a684a8ac111d331764be
+timeCreated: 1463457408
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 3
+  fontSize: 24
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61542
+  packageName: AR LiSuGB MD (Lite)
+  packageVersion: 0.3
+  assetPath: Assets/fonts/arlishugbmd_test/arlishugbmd_test.ttf
+  uploadId: 186914

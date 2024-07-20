@@ -1,0 +1,18 @@
+{
+    "name": "bilibili.OpenBLive.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aad39dd3dbbabc740941e057e6cef811"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

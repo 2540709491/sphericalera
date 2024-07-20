@@ -1,0 +1,455 @@
+{
+  "context": {
+    "projectPath": "F:/Spherical era/oilNew/Packages",
+    "unityVersion": "6000.0.8f1c1"
+  },
+  "inputs": [
+    "F:\\Spherical era\\oilNew\\Packages\\manifest.json",
+    "F:\\Spherical era\\oilNew\\Packages\\packages-lock.json"
+  ],
+  "outputs": {
+    "com.unity.2d.animation@10.1.2": {
+      "name": "com.unity.2d.animation",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.2d.animation",
+      "fingerprint": "6eb19a9b029c2401d3e26b6d071912c3be0b1131",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "10.1.2",
+      "source": "registry"
+    },
+    "com.unity.2d.pixel-perfect@5.0.3": {
+      "name": "com.unity.2d.pixel-perfect",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.2d.pixel-perfect",
+      "fingerprint": "e3ae982b672dc7cca42a6303bdf53b84c69991da",
+      "editorCompatibility": "2021.1.0a1",
+      "version": "5.0.3",
+      "source": "registry"
+    },
+    "com.unity.2d.psdimporter@9.0.3": {
+      "name": "com.unity.2d.psdimporter",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.2d.psdimporter",
+      "fingerprint": "676bae148e11de9a02db5a3614b8c56e4f0f44ac",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "9.0.3",
+      "source": "registry"
+    },
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.2d.sprite",
+      "fingerprint": "0e3cfd27a2b4d364334434d9dcc1bf1f6d795736",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.2d.spriteshape@10.0.6": {
+      "name": "com.unity.2d.spriteshape",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.2d.spriteshape",
+      "fingerprint": "bd096f9a58153b3fab6d968be6480077748d80c4",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "10.0.6",
+      "source": "registry"
+    },
+    "com.unity.2d.tilemap@1.0.0": {
+      "name": "com.unity.2d.tilemap",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.2d.tilemap",
+      "fingerprint": "6c40dcf2e8ac14012cdc046522369db9f24c8f30",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.ai.navigation@2.0.0": {
+      "name": "com.unity.ai.navigation",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.ai.navigation",
+      "fingerprint": "f6367599281e08d75acc8229ad70ac03cfe57ac1",
+      "editorCompatibility": "2023.2.0a18",
+      "version": "2.0.0",
+      "source": "registry"
+    },
+    "com.unity.collab-proxy@2.3.1": {
+      "name": "com.unity.collab-proxy",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.collab-proxy",
+      "fingerprint": "9fe9d34b5e265703867fd4b6e7ef78001c1fa370",
+      "editorCompatibility": "2020.3.48f1",
+      "version": "2.3.1",
+      "source": "registry"
+    },
+    "com.unity.feature.development@1.0.2": {
+      "name": "com.unity.feature.development",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.feature.development",
+      "fingerprint": "c770b6a36a30949b030c5ec02d835f771b975cbb",
+      "version": "1.0.2",
+      "source": "builtin"
+    },
+    "com.unity.ide.rider@3.0.31": {
+      "name": "com.unity.ide.rider",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.ide.rider",
+      "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
+      "editorCompatibility": "2019.2.6f1",
+      "version": "3.0.31",
+      "source": "registry"
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.ide.visualstudio",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry"
+    },
+    "com.unity.ide.vscode@1.2.5": {
+      "name": "com.unity.ide.vscode",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.ide.vscode",
+      "fingerprint": "82e68656b7bdc5da8beb1fbaf1bb4ecf13456d51",
+      "editorCompatibility": "2019.2.0a12",
+      "version": "1.2.5",
+      "source": "registry"
+    },
+    "com.unity.nuget.newtonsoft-json@3.2.1": {
+      "name": "com.unity.nuget.newtonsoft-json",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json",
+      "fingerprint": "74deb55db2a0c29ddfda576608bcb86abbd13ee6",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "3.2.1",
+      "source": "registry"
+    },
+    "com.unity.test-framework@1.4.4": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.test-framework",
+      "fingerprint": "4e62d75b705a73b10f689eb9441e75e69dcd0116",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.4",
+      "source": "registry"
+    },
+    "com.unity.timeline@1.8.7": {
+      "name": "com.unity.timeline",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.timeline",
+      "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "1.8.7",
+      "source": "registry"
+    },
+    "com.unity.toolchain.win-x86_64-linux-x86_64@2.0.9": {
+      "name": "com.unity.toolchain.win-x86_64-linux-x86_64",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.toolchain.win-x86_64-linux-x86_64",
+      "fingerprint": "22f622e0821fc835034e57944ff152a3049178fe",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.9",
+      "source": "registry"
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.ugui",
+      "fingerprint": "1bd040c2d659bda2b78a218b1ddc76b80b58a906",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.sysroot@2.0.10": {
+      "name": "com.unity.sysroot",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.sysroot",
+      "fingerprint": "7bbbb9339c143f6fbccaeb0a52c77b9217b35a71",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.10",
+      "source": "registry"
+    },
+    "com.unity.sysroot.linux-x86_64@2.0.9": {
+      "name": "com.unity.sysroot.linux-x86_64",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.sysroot.linux-x86_64",
+      "fingerprint": "1998d1c7730e48fa49f28d983fececfc9cbd970b",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.9",
+      "source": "registry"
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.ext.nunit",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "registry"
+    },
+    "com.unity.editorcoroutines@1.0.0": {
+      "name": "com.unity.editorcoroutines",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.editorcoroutines",
+      "fingerprint": "7d48783e7b8cfcee5f8ef9ba787ed0d9dad4ebca",
+      "editorCompatibility": "2018.1.0a1",
+      "version": "1.0.0",
+      "source": "registry"
+    },
+    "com.unity.performance.profile-analyzer@1.2.2": {
+      "name": "com.unity.performance.profile-analyzer",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.performance.profile-analyzer",
+      "fingerprint": "fe7acfd2717a98ded6ddc33be6b2ebe4459a2add",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "1.2.2",
+      "source": "registry"
+    },
+    "com.unity.testtools.codecoverage@1.2.5": {
+      "name": "com.unity.testtools.codecoverage",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.testtools.codecoverage",
+      "fingerprint": "be1fd8edb454c4523a418deda696a9209411ab71",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "1.2.5",
+      "source": "registry"
+    },
+    "com.unity.mathematics@1.3.1": {
+      "name": "com.unity.mathematics",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.mathematics",
+      "fingerprint": "0cc332b9879082676002a97378a6d3d6296282a3",
+      "editorCompatibility": "2018.3.0a1",
+      "version": "1.3.1",
+      "source": "registry"
+    },
+    "com.unity.2d.common@9.0.5": {
+      "name": "com.unity.2d.common",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.2d.common",
+      "fingerprint": "c307e941ccd13ed5f537acb4874d1eb5a8bec663",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "9.0.5",
+      "source": "registry"
+    },
+    "com.unity.collections@2.4.0": {
+      "name": "com.unity.collections",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.collections",
+      "fingerprint": "cf7bbd1c92f28e6faaa49463739a6a980c9c32b9",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "2.4.0",
+      "source": "registry"
+    },
+    "com.unity.settings-manager@2.0.1": {
+      "name": "com.unity.settings-manager",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.settings-manager",
+      "fingerprint": "56a930affa1e4462d3595b5c19a1c2a4bf2015d2",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "2.0.1",
+      "source": "registry"
+    },
+    "com.unity.burst@1.8.16": {
+      "name": "com.unity.burst",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.burst",
+      "fingerprint": "000840f9394643fba72955ad6e31718ddf96ec36",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "1.8.16",
+      "source": "registry"
+    },
+    "com.unity.nuget.mono-cecil@1.11.4": {
+      "name": "com.unity.nuget.mono-cecil",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
+      "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "1.11.4",
+      "source": "registry"
+    },
+    "com.unity.test-framework.performance@3.0.3": {
+      "name": "com.unity.test-framework.performance",
+      "resolvedPath": "F:\\Spherical era\\oilNew\\Library\\PackageCache\\com.unity.test-framework.performance",
+      "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "3.0.3",
+      "source": "registry"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>0.0.2</PackageVersion>
+        <Title>BilibiliUtilities-Utils</Title>
+        <Description>Basic functional support for bilibilibiliutilities and users</Description>
+        <PackageProjectUrl>https://github.com/is-a-gamer/BilibiliUtilities</PackageProjectUrl>
+        <PackageTags>Bilibili</PackageTags>
+        <LangVersion>8</LangVersion>
+        <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    </ItemGroup>
+
+</Project>
